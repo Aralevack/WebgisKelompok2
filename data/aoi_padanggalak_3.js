@@ -1,0 +1,1 @@
+var json_aoi_padanggalak_3 = {"type":"FeatureCollection","name":"aoi_padanggalak_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"MultiPolygon","coordinates":[[[[115.26147,-8.66322],[115.26143,-8.65141],[115.2837,-8.65162],[115.28349,-8.66303],[115.26147,-8.66322]]]]}}]}
